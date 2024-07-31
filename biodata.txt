@@ -1,0 +1,9 @@
+
+Nama: fara
+Umur: 18
+Alamat: malang
+---
+Nama: kiya
+Umur: 18
+Alamat: malang
+---
